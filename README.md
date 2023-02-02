@@ -96,7 +96,7 @@ Interested in contributing to the Well app project? Thanks so much for your inte
 
 If you have a contribution in mind, please check out our [Contribution Guide](https://github.com/chroline/well_app/wiki/Contribution-Guide) for information on how to do so. Also, make sure you read our [Code of Conduct](https://github.com/chroline/well_app/wiki/Code-of-Conduct) to foster an encouraging sense of community.
 
-# 🌟 Spread the word!
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/rm.png" style="width: 30%;">
 
 If you want to say thank you and/or support active development of the Well app:
 
@@ -107,7 +107,7 @@ If you want to say thank you and/or support active development of the Well app:
 
 Thanks so much for your interest in growing the reach of the Well app!
 
-# ⚠️ License
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/lic.png" style="width: 30%;">
 
 The Well app is free and open-source software licensed under the GNU General Public License v3.0. All designs were created by [Cole Gawin](https://github.com/chroline) and distributed under Creative Commons license (CC BY-SA 4.0 International).
 
