@@ -73,7 +73,7 @@
 
 <br />
 
-# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/whatisthis.png" style="width: 30%;">
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/wit.png" style="width: 30%;">
 
 > The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
 > 
@@ -90,7 +90,7 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 - To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
 - The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
 
-# ✍️ Contributing
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/supp.png" style="width: 30%;">
 
 Interested in contributing to the Well app project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
 
