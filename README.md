@@ -81,7 +81,7 @@
 
 **Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
 
-# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/requirements.png" style="width: 30%;">
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/req.png" style="width: 30%;">
 
 Here's a brief high-level overview of the tech stack the Well app uses:
 
