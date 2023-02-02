@@ -74,7 +74,7 @@
 
 <br />
 
-# 🧐 Project philosophy
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/requirements.png" style="width: 30%;">
 
 > The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
 > 
