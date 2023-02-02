@@ -73,7 +73,7 @@
 
 <br />
 
-# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/requirements.png" style="width: 30%;">
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/whatisthis.png" style="width: 30%;">
 
 > The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
 > 
@@ -81,7 +81,7 @@
 
 **Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
 
-# 👨‍💻 Tech stack
+# <img src="https://github.com/ZenfadeCOM/OctopusUI/raw/main/requirements.png" style="width: 30%;">
 
 Here's a brief high-level overview of the tech stack the Well app uses:
 
